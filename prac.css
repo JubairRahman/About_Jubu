@@ -109,6 +109,10 @@ p {
   padding-bottom: 10px;
   box-shadow: 10px 10px 40px rgba(87, 70, 63, 0.877);
 }
+
+a {
+  color: rgb(255, 255, 255);
+}
 .footer {
   background-image: url("images/footer-bg.png");
   background-size: 100%;
